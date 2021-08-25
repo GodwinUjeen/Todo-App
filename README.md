@@ -1,6 +1,6 @@
 # Todo-App
 This is a TODO List App developed with Flutter and custom backend using NodeJS and MongoDB.
-This app will work on android, linux and web.
+This app will work on android, linux and web (https://mefn-todo.netlify.app/#/).
 
 # Sample Screenshots
 # &emsp;&nbsp;&nbsp; Android &emsp;&emsp;&emsp;&emsp;&emsp; Web
